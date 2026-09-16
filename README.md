@@ -32,7 +32,7 @@ have explicit permission to test.
 ### 1. Get the files
 
 ```bash
-git clone https://github.com/shaddy5635-ship-it/LanSentry.git
+git clone https://github.com/yourusername/LanSentry.git
 cd LanSentry
 ```
 
