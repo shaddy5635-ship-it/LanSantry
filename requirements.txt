@@ -1,0 +1,6 @@
+# LanSentry has no third-party dependencies.
+# It only uses Python's standard library:
+#   argparse, concurrent.futures, csv, ipaddress, json, socket, sys, time
+#
+# This file is included for convention / CI pipelines that expect one.
+# Requires: Python >= 3.7
