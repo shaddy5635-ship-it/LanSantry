@@ -32,11 +32,11 @@ have explicit permission to test.
 ### 1. Get the files
 
 ```bash
-git clone https://github.com/yourusername/lansentry.git
-cd lansentry
+git clone https://github.com/yourusername/LanSentry.git
+cd LanSentry
 ```
 
-(Or just download `lansentry.py` directly if you don't want to clone
+(Or just download `LanSentry.py` directly if you don't want to clone
 a repo.)
 
 ### 2. (Optional) Create a virtual environment
